@@ -66,7 +66,7 @@ also changes the
 -- document.childElementCount : gives the number of child elements 
 
 In the below example, we have an HTML document, we can access the <p> element of the HTML document using it's id "demo" 
-and we can change it's content using innerHTML property, Same has been done for <h2> element. 
+and we can change it's content using innerHTML property, Same has been done for <h2> element.  (screenshot attached) 
 
                     <!DOCTYPE html>
                     <html>
